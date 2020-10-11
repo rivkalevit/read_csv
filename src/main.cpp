@@ -1,3 +1,5 @@
+//rivush:)
+
 #include <QCoreApplication>
 #include <QFile>
 #include <QTextStream>

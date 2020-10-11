@@ -17,7 +17,6 @@ int main(int argc, char *argv[])
     QString name;
     QString password;
 
-
     file.setFileName(fileName);
     if (!file.open(QIODevice::ReadOnly)){
         qDebug("%s.%d open failed",__FUNCTION__,__LINE__);

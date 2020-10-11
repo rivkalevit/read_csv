@@ -9,8 +9,6 @@
 static QFile file;
 static QHash <QString,QString> permission_hash;
 
-
-
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);

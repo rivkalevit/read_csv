@@ -1,3 +1,4 @@
 [1011/144507.728:ERROR:settings.cc(430)] Settings version is not 5
 [1011/145507.733:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1011/145539.218:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\itamar\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b555bfbd-35b1-4757-81b6-1419d3626dec: The system cannot find the path specified. (0x3)
+[1015/143133.691:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

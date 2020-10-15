@@ -1,6 +1,5 @@
 //rivush:)
-//sssa
-
+//sssa//
 #include <QCoreApplication>
 #include <QFile>
 #include <QTextStream>

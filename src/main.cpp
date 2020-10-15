@@ -8,6 +8,11 @@
 #include <QStringList>
 #include <QDebug>
 
+
+//15/10/20 15:40
+
+
+
 static QFile file;
 static QHash <QString,QString> permission_hash;
 
